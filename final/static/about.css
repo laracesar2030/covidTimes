@@ -1,0 +1,25 @@
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E0D0E9;
+}
+
+
+
+.img {
+    width: 100%;
+}
+
+.img img {
+    width: 100%;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #999;
+}
+
+#about h2 {
+    margin-bottom: 25px;
+
+}
